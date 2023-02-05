@@ -49,11 +49,11 @@
 
         layer_symbols {
             bindings = <
-  &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                    &trans                                                                                        &trans  &kp N6            &kp KP_NUM           &kp KP_EQUAL     &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp MINUS
- &kp ESCAPE      &kp Q     &kp W    &kp UP      &kp R   &kp T                &kp C_PREV                                                                               &kp C_VOLUME_UP   &kp Y      &kp LEFT_BRACKET      &kp RIGHT_BRACKET         &kp KP_N9       &kp KP_MINUS   &kp BSLH
-    &kp TAB      &kp A  &kp LEFT  &kp DOWN  &kp RIGHT   &kp G                &kp C_NEXT       &kp LALT              &kp LCTRL                  &kp LALT  &kp RCTRL  &kp C_VOLUME_DOWN   &kp H  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &kp SQT
-  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                     &none          &none   &kp LEFT_PARENTHESIS   &none   &none  &kp LBKT      &none              &none   &kp N        &kp LEFT_BRACE        &kp RIGHT_BRACE         &kp KP_N3       &kp KP_ENTER  &kp RSHFT
-     &trans  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &mt LCMD SPACE  &kp BACKSPACE  &kp RIGHT_PARENTHESIS                  &kp RBKT  &kp ENTER           &kp RCMD                        &kp UP               &kp DOWN        &kp KP_DOT           &kp RBKT     &trans
+  &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                    &trans                                                                                        &trans           &kp N6            &kp KP_NUM           &kp KP_EQUAL  &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp MINUS
+ &kp ESCAPE      &kp Q     &kp W    &kp UP      &kp R   &kp T                &kp C_PREV                                                                               &kp C_VOLUME_UP  &kp EXCLAMATION      &kp LEFT_BRACKET      &kp RIGHT_BRACKET       &kp PIPE       &kp KP_MINUS   &kp BSLH
+    &kp TAB      &kp A  &kp LEFT  &kp DOWN  &kp RIGHT   &kp G                &kp C_NEXT       &kp LALT              &kp LCTRL                  &kp LALT  &kp RCTRL  &kp C_VOLUME_DOWN      &kp PERCENT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS   &kp QUESTION  &kp RIGHT_BRACKET    &kp SQT
+  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                     &none          &none   &kp LEFT_PARENTHESIS   &none   &none  &kp LBKT      &none              &none   &kp APOSTROPHE        &kp LEFT_BRACE        &kp RIGHT_BRACE      &kp GRAVE       &kp KP_ENTER  &kp RSHFT
+     &trans  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT                    &mt LCMD SPACE  &kp BACKSPACE  &kp RIGHT_PARENTHESIS                  &kp RBKT  &kp ENTER           &kp RCMD                                 &kp UP               &kp DOWN     &kp KP_DOT           &kp RBKT     &trans
             >;
         };
 
