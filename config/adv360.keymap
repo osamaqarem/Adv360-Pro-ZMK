@@ -69,11 +69,11 @@
 
         layer_symbols {
             bindings = <
- &trans  &trans          &trans          &trans           &trans  &trans              &kp C_PP                                                        &trans         &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS            &trans          &trans     &trans
- &trans  &trans          &trans    &kp UP_ARROW           &trans  &trans            &kp C_PREV                                                  &kp C_VOL_UP  &kp AMPERSAND              &kp LBKT               &kp RBKT         &kp CARET  &kp UNDERSCORE     &trans
- &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans            &kp C_NEXT  &trans  &trans                  &trans  &trans  &kp C_VOL_DN       &kp PIPE        &kp LEFT_BRACE        &kp RIGHT_BRACE      &kp QUESTION   &kp SEMICOLON  &kp GRAVE
- &trans  &trans          &trans          &trans           &trans  &trans                &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans       &kp EXCL       &kp KP_MULTIPLY          &kp LESS_THAN  &kp GREATER_THAN       &kp SLASH     &trans
- &trans  &trans          &trans          &trans           &trans                        &trans  &trans  &trans                  &trans  &trans        &trans                             &kp PLUS              &kp MINUS            &trans          &trans     &trans
+ &trans  &trans          &trans          &trans           &trans                    &trans              &kp C_PP                                                        &trans         &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS            &trans          &trans     &trans
+ &trans  &trans          &trans    &kp UP_ARROW           &trans      &kp LG(LS(NUMBER_4))            &kp C_PREV                                                  &kp C_VOL_UP  &kp AMPERSAND              &kp LBKT               &kp RBKT         &kp CARET  &kp UNDERSCORE     &trans
+ &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW      &kp LG(LS(NUMBER_5))            &kp C_NEXT  &trans  &trans                  &trans  &trans  &kp C_VOL_DN       &kp PIPE        &kp LEFT_BRACE        &kp RIGHT_BRACE      &kp QUESTION   &kp SEMICOLON  &kp GRAVE
+ &trans  &trans          &trans          &trans           &trans  &kp LG(LS(LC(NUMBER_4)))                &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans       &kp EXCL       &kp KP_MULTIPLY          &kp LESS_THAN  &kp GREATER_THAN       &kp SLASH     &trans
+ &trans  &trans          &trans          &trans           &trans                                          &trans  &trans  &trans                  &trans  &trans        &trans                             &kp PLUS              &kp MINUS            &trans          &trans     &trans
             >;
         };
 
