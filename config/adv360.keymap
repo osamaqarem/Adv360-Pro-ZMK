@@ -69,11 +69,11 @@
 
         layer_symbols {
             bindings = <
- &trans  &trans     &trans         &trans       &kp C_VOL_DN              &kp C_VOL_UP              &kp C_PP                                                    &trans         &trans                &trans                 &trans             &trans     &trans  &trans
- &trans  &trans     &trans      &kp MINUS           &kp PLUS      &kp LG(LS(NUMBER_4))            &kp C_PREV                                                  &kp PIPE  &kp AMPERSAND              &kp LBKT               &kp RBKT          &kp CARET     &trans  &trans
- &trans  &trans  &kp EQUAL  &kp LESS_THAN   &kp GREATER_THAN      &kp LG(LS(NUMBER_5))            &kp C_NEXT  &trans  &trans                  &trans  &trans  &kp EXCL   &kp QUESTION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp COLON  &trans
- &trans  &trans     &trans         &trans  &kp LG(LC(SPACE))  &kp LG(LS(LC(NUMBER_4)))                &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans      &kp UNDER        &kp LEFT_BRACE        &kp RIGHT_BRACE             &trans     &trans  &trans
- &trans  &trans     &trans         &trans             &trans                                          &trans  &trans  &trans                  &trans  &trans    &trans                            &kp GRAVE        &kp KP_MULTIPLY             &trans     &trans  &trans
+ &trans  &trans     &trans         &trans       &kp C_VOL_DN              &kp C_VOL_UP              &kp C_PP                                                    &trans         &trans                &trans                 &trans             &trans  &trans  &trans
+ &trans  &trans     &trans      &kp MINUS           &kp PLUS      &kp LG(LS(NUMBER_4))            &kp C_PREV                                                  &kp PIPE  &kp AMPERSAND              &kp LBKT               &kp RBKT          &kp CARET  &trans  &trans
+ &trans  &trans  &kp EQUAL  &kp LESS_THAN   &kp GREATER_THAN      &kp LG(LS(NUMBER_5))            &kp C_NEXT  &trans  &trans                  &trans  &trans  &kp EXCL   &kp QUESTION  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DOUBLE_QUOTES  &trans  &trans
+ &trans  &trans     &trans         &trans  &kp LG(LC(SPACE))  &kp LG(LS(LC(NUMBER_4)))                &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans      &kp UNDER        &kp LEFT_BRACE        &kp RIGHT_BRACE             &trans  &trans  &trans
+ &trans  &trans     &trans         &trans             &trans                                          &trans  &trans  &trans                  &trans  &trans    &trans                            &kp GRAVE        &kp KP_MULTIPLY             &trans  &trans  &trans
             >;
         };
 
