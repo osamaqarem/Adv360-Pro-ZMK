@@ -41,9 +41,9 @@
             bindings = <
          &kp CAPS  &kp N1  &kp N2    &kp N3     &kp N4  &kp N5                 &tog 1                                                                                     &mo 2  &kp N6  &kp N7     &kp N8      &kp N9                  &kp N0     &none
           &kp ESC   &kp Q   &kp W     &kp E      &kp R   &kp T            &kp LC(TAB)                                                                                     &none   &kp Y   &kp U      &kp I       &kp O                   &kp P  &kp BSLH
-          &kp TAB   &kp A   &kp S     &kp D      &kp F   &kp G            &kp LG(TAB)  &kp LEFT_CONTROL      &kp LEFT_ALT                      &kp RIGHT_ALT  &kp RCTRL   &none   &kp H   &kp J      &kp K       &kp L  &mt RIGHT_COMMAND SEMI   &kp SQT
+          &kp TAB   &kp A   &kp S     &kp D      &kp F   &kp G            &kp LG(TAB)  &kp LEFT_CONTROL    &kp LEFT_SHIFT                      &kp RIGHT_ALT  &kp RCTRL   &none   &kp H   &kp J      &kp K       &kp L  &mt RIGHT_COMMAND SEMI   &kp SQT
  &kp LEFT_COMMAND   &kp Z   &kp X     &kp C      &kp V   &kp B                  &none             &none  &kp LEFT_COMMAND   &none   &none  &kp RIGHT_COMMAND      &none   &none   &kp N   &kp M  &kp COMMA  &kp PERIOD          &mt RALT SLASH   &kp TAB
-            &mo 3   &none   &none  &kp LEFT  &kp RIGHT                      &kp SPACE     &kp BACKSPACE         &kp LSHFT                         &kp RSHIFT  &kp ENTER   &sl 3          &kp UP   &kp DOWN       &none                   &none     &none
+            &mo 3   &none   &none  &kp LEFT  &kp RIGHT                      &kp SPACE      &kp LEFT_ALT     &kp BACKSPACE                         &kp RSHIFT  &kp ENTER   &sl 3          &kp UP   &kp DOWN       &none                   &none     &none
             >;
         };
 
